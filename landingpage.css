@@ -1,0 +1,14 @@
+.main{
+    background: greenyellow;
+}
+.logo{
+    background: green;
+}
+.content{
+    width: 500px;
+    background: red;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+   
+}
